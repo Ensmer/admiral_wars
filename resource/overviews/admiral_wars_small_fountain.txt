@@ -1,0 +1,8 @@
+admiral_wars_small_fountain
+{
+	material materials/overviews/admiral_wars_small_fountain.vmat
+	pos_x -3576
+	pos_y 3576
+	scale 6.984
+}
+

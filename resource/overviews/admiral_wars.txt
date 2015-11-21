@@ -1,0 +1,8 @@
+admiral_wars
+{
+	material materials/overviews/admiral_wars.vmat
+	pos_x -4088
+	pos_y 4088
+	scale 7.984
+}
+
